@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am noname121212 on github.
+  * I am keepfly (https://keybase.io/keepfly) on keybase.
+  * I have a public key ASAielY9cOrLLJVbPw6dH_J0MeysLX6PjNXh0IDCK10qwwo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120227a563d70eacb2c955b3f0e9d1ff27431ecac2d7e8f8cd5e1d080c22b5d2ac30a",
+      "host": "keybase.io",
+      "kid": "0120227a563d70eacb2c955b3f0e9d1ff27431ecac2d7e8f8cd5e1d080c22b5d2ac30a",
+      "uid": "94a5337b44dac20145696fe52d830819",
+      "username": "keepfly"
+    },
+    "merkle_root": {
+      "ctime": 1568303536,
+      "hash": "f0f7389f840162c5b85bdf70c406adc8b0482e4d87e062f1b866a251b32b01b24b75cc51d33c965d9fe79667bd0c3c3dc29f141e2cb7ab0df93f772b3877139c",
+      "hash_meta": "f01f6ed3cfe0a17ed2a4746c4c669b37b90fa853011cdb7c2487012a91d78896",
+      "seqno": 6993717
+    },
+    "service": {
+      "entropy": "7xWvaiLTv941uxbFXfA5Xii+",
+      "name": "github",
+      "username": "noname121212"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.0"
+  },
+  "ctime": 1568303566,
+  "expire_in": 504576000,
+  "prev": "afc5d759fa59f47b940f1d63aaf90b93eaca30f45455c24385baab89e5492bb2",
+  "seqno": 5,
+  "tag": "signature"
+}
+```
+
+with the key [ASAielY9cOrLLJVbPw6dH_J0MeysLX6PjNXh0IDCK10qwwo](https://keybase.io/keepfly), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgInpWPXDqyyyVWz8OnR/ydDHsrC1+j4zV4dCAwitdKsMKp3BheWxvYWTESpcCBcQgr8XXWfpZ9HuUDx1jqvkLk+rKMPRUVcJDhbqrieVJK7LEIIWNssP2eQnSZgKYiENjZve8FphP1TSH3gYX+w2YvQgTAgHCo3NpZ8RAv0/GqI7IaZf/bpSdWpRluO/HDPXi67kgUpXL/Z3GHe971UEpZ2ARM/qY80LAfd/IQ/A3Ub7ajUJuK55Kl2vKDKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEINdClSCo+9J2oRCKwQoLZl6+t25xoils00X4yvROxjRNo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/keepfly
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id keepfly
+```
